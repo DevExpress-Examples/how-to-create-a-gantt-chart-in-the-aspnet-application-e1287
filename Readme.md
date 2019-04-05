@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [GanttData.cs](./CS/WebSite/App_Code/GanttData.cs) (VB: [GanttData.vb](./VB/WebSite/App_Code/GanttData.vb))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to create a Gantt Chart in the ASP.NET application
